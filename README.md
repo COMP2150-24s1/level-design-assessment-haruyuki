@@ -102,6 +102,7 @@ Some initial level map drafts I planned for had changed due to limitations or di
 
 Playtesting also helped provide feedback on some parts of my levels that I didn't notice may have been too confusing or difficult to understand, particularly in the third level where there are multiple paths to take but an order in which to move around the level. One confusing part was the fact that stepping on the pressure pad on the top right would open not only the bridge next to it but also the bridge on the bottom left.
 ![Old design of level 3 where the pressure pad on the top left opened the bridge on the right](DocImages/iteration2.jpg)
+
 To resolve this issue a change was made to the design of the bottom left to have a box already on the floor, and once pushed into a hole in the floor, another box that can be pushed against the wall to jump up will appear.
 ![Comparison between the original design of level 3 with the new updated design](DocImages/iteration3.png)
 
@@ -115,7 +116,8 @@ While most of the iteration changes above could be resolved fairly easily, one a
 ### Tool Used: Grammarly
 **Nature of Use**: Checking document correctness
 
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
+**Evidence Attached?** Screenshot of Grammarly page with suggested document changes provided below and in file DocImages/ai1.png
+![Picture of Grammarly webpage with document suggestions](DocImages/ai1.png)
 
 **Additional Notes:** Grammarly was used to simply check I didn't have any wording issues or incorrect tense/grammar used in my writing. As I don't have a premium subscription it is only used for basic document checking.
 
