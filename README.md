@@ -42,11 +42,6 @@ In the second section, the player is met with a split path of going down or righ
 After the player drops to the third section the player is exposed to the background with large pillars as if holding the structure of section three up. The player is met again with a split path going bottom left or top right. Depending on the players' timing, they may also see a moving platform moving left and right on top of them.
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Spikes
 Spikes are introduced to the player first as spikes will be the most prevalent trap in the game, with it being used multiple times in different scenarios in further levels. The first spike shown to the player is easy to jump over and is used to prepare the player.
@@ -128,5 +123,3 @@ While most of the iteration changes above could be resolved fairly easily, one a
 ![Picture of Grammarly webpage with document suggestions](DocImages/ai1.png)
 
 **Additional Notes:** Grammarly was used to simply check I didn't have any wording issues or incorrect tense/grammar used in my writing. As I don't have a premium subscription it is only used for basic document checking.
-
-
