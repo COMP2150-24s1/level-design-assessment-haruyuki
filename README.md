@@ -50,15 +50,19 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Spikes
 Spikes are introduced to the player first as spikes will be the most prevalent trap in the game, with it being used multiple times in different scenarios in further levels. The first spike shown to the player is easy to jump over and is used to prepare the player.
+![Storyboard of spikes](DocImages/storyboard_spike.png)
 
 ### 2.2. Moving Platforms
 Moving platforms are next introduced to the player as it's the only long method of transport between two areas. These moving platforms pose no danger, however, in later levels players will need to jump/duck under obstacles to stay on the platform.
+![Storyboard of moving platforms](DocImages/storyboard_mplatform.png)
 
 ### 2.3. Keys
 The first key is presented to the player close to the end of the level to indicate they are moving on the right path. The remaining keys are also placed near the end of levels so the player can get a sense of progression.
+![Storyboard of keys](DocImages/storyboard_key.png)
 
 ### 2.4. Acid
 Acid is first shown to the player beginning in level 2. This initial encounter is not too dangerous but encounters later levels make use of acid as the floor to prevent players from traversing the level on the ground and skipping encounters.
+![Storyboard of acid](DocImages/storyboard_acid.png)
 
 ### 2.5. Health Pickups
 The player's first health pickup is midway through the second level, once the player has gone through some encounters earlier in the level. The box is to give the player some relief to let them know that health can be recovered.
@@ -68,18 +72,22 @@ Each level contains one checkpoint and is placed just after a difficult or long 
 
 ### 2.7. Spitters
 Spitters are initially introduced in level 2, however depending on player pathing, they may not encounter them until level 3 instead. Spitters are mainly used to block off encounters until they have acquired the gun, as they are placed in areas that are unkillable by staff.
+![Storyboard of spitters](DocImages/storyboard_spitters.png)
 
 ### 2.8. Chompers
 Players may alternatively first encounter the chompers instead. There is only one chomper the player encounters pre-staff to show the dangers of interacting with them, however soon after they will acquire the staff and be able to kill them.
+![Storyboard of chompers](DocImages/storyboard_chompers.png)
 
 ### 2.9. Passthrough Platforms
 Passthrough platforms are used to provide alternative pathways to go in my level, whether to continue past the platform or drop down. They are also used to move the player upwards from a lower ground.
 
 ### 2.10. Weapon Pickup (Staff)
 The staff is given to the player in the middle of level 2, to provide them with a means to kill a chomper located on one of the platforms the player needs to jump across to proceed.
+![Storyboard of staff](DocImages/storyboard_staff.png)
 
 ### 2.11. Weapon Pickup (Gun)
 The gun is given to the player halfway through level 3, after some encounters that need to be cleared. The gun is the final item preventing the player from grabbing the third key and reaching the exit.
+![Storyboard of gun](DocImages/storyboard_gun.png)
 
 ## 3. Spatiotemporal Design
 
