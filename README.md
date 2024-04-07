@@ -72,11 +72,11 @@ Each level contains one checkpoint and is placed just after a difficult or long 
 
 ### 2.7. Spitters
 Spitters are initially introduced in level 2, however depending on player pathing, they may not encounter them until level 3 instead. Spitters are mainly used to block off encounters until they have acquired the gun, as they are placed in areas that are unkillable by staff.
-![Storyboard of spitters](DocImages/storyboard_spitters.png)
+![Storyboard of spitters](DocImages/storyboard_spitter.png)
 
 ### 2.8. Chompers
 Players may alternatively first encounter the chompers instead. There is only one chomper the player encounters pre-staff to show the dangers of interacting with them, however soon after they will acquire the staff and be able to kill them.
-![Storyboard of chompers](DocImages/storyboard_chompers.png)
+![Storyboard of chompers](DocImages/storyboard_chomper.png)
 
 ### 2.9. Passthrough Platforms
 Passthrough platforms are used to provide alternative pathways to go in my level, whether to continue past the platform or drop down. They are also used to move the player upwards from a lower ground.
